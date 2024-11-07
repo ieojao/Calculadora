@@ -22,7 +22,6 @@ body {
 
 .card:hover {
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
-    transform: translateY(-5px);
 }
 
 h2 {
@@ -65,7 +64,6 @@ button {
 button:hover {
     background-color: #1e66d7;
     cursor: pointer;
-    transform: translateY(-2px);
 }
 
 button:focus {
